@@ -1,7 +1,7 @@
 <table align="center" style='border: 10px dashed black;'>
     <tr>
         <td>
-            <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Introduce.png">
+            <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Introduce.png">
         </td>
     </tr>
 </table>
