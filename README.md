@@ -17,7 +17,7 @@
 
 📧 __Gmail__: ptnhanit230104@gmail.com
 
-<img src="" width="5px" />
+<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Facebook.jpg" height="30px"/>__Facebook__: Nhan Pham
 
 ## Technical Skills 🧠
 
