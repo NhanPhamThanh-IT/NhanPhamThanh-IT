@@ -15,7 +15,7 @@
 
 🌏 __From__: Viet Nam 🇻🇳
 
-<img src=""> ptnhanit230104@gmail.com
+<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Gmail%20Icon.png" height="20px"> ptnhanit230104@gmail.com
 
 ## Technical Skills 🧠
 
