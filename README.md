@@ -11,11 +11,11 @@
 
 😅 __Nhan Pham__
 
-📆 __23/01/2004__
+<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Calendar%20Icon.png" height="15px"> &nbsp;__23/01/2004__
 
 <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Vietnam%20Icon.png" height="15px"> &nbsp;__Viet Nam__
 
-<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Gmail%20Icon.png" height="20px"> ptnhanit230104@gmail.com
+<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Mail%20Icon.png" height="15px"> &nbsp;__ptnhanit230104@gmail.com__
 
 <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Facebook%20Icon.png" height="15px"> &nbsp;__Nhan Pham__
 ## Technical Skills 🧠
