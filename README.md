@@ -7,16 +7,17 @@
 </table>
 
 ## About Me
-🧑‍🦱 __Fullname__: Phạm Thành Nhân
+🧑‍🦱 __Phạm Thành Nhân__
 
-😅 __Nickname__: Nhan Pham
+😅 __Nhan Pham__
 
-📆 __Date Of Birth__: 23/01/2004
+📆 __23/01/2004__
 
-🌏 __From__: Viet Nam 🇻🇳
+🌏 __Viet Nam__
 
 <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Gmail%20Icon.png" height="20px"> ptnhanit230104@gmail.com
 
+<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Facebook%20Icon.png" height="15px"> &nbsp;__Nhan Pham__
 ## Technical Skills 🧠
 
 <div align='justify'>
