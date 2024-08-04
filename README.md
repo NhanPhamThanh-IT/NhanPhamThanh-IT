@@ -17,6 +17,8 @@
 
 📧 __Gmail__: ptnhanit230104@gmail.com
 
+<img src="" width="5px" />
+
 ## Technical Skills 🧠
 
 <div align='justify'>
@@ -29,7 +31,15 @@
 
 **Others**
 
-- Good understanding of OOP methodologies, SOLID principles, and design pattern.
+- __OOP__: Good understanding of OOP methodologies, SOLID principles, and design pattern.
+- __Data Structures and Algorithms__: Understanding of fundamental data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, dynamic programming).
+- __Debugging and Testing__: Skills in debugging code, writing and running tests (unit tests, integration tests), and using testing frameworks.
+- __APIs and Integration__: Experience with RESTful APIs, GraphQL, and integrating third-party services or libraries.
+- __Operating Systems__: Knowledge of operating systems concepts, including processes, threads, and memory management.
+- __Web Development__: Understanding of web technologies, including HTML, CSS, JavaScript, and frameworks/libraries like React or Angular.
+- __Command Line Proficiency__: Comfort with using command-line interfaces and scripting for automation tasks.
+- __Continuous Integration/Continuous Deployment (CI/CD)__: Familiarity with CI/CD tools and practices for automating the build, test, and deployment processes.
+- __Performance Optimization__: Skills in profiling and optimizing code for performance and scalability.
 </div>
 
 ## Education ✍️
