@@ -7,7 +7,7 @@
 </table>
 
 ## About Me
-🧑‍🦱 __Phạm Thành Nhân__
+<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Person%20Icon.png" height="15px"> &nbsp;__Phạm Thành Nhân__
 
 😅 __Nhan Pham__
 
