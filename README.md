@@ -105,7 +105,8 @@ Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator an
 ## 🥇 My Stats 🥇
 </div>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NhanPhamThanh-IT&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhanPhamThanh-IT&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 NhanPhamThanh-IT/NhanPhamThanh-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
