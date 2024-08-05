@@ -6,7 +6,11 @@
     </tr>
 </table>
 
+<div align="center">
+
 ## About Me
+</div>
+
 <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Person%20Icon.png" height="15px"> &nbsp;__Phạm Thành Nhân__
 
 😅 __Nhan Pham__
@@ -18,13 +22,20 @@
 <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Mail%20Icon.png" height="15px"> &nbsp;__ptnhanit230104@gmail.com__
 
 <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Facebook%20Icon.png" height="15px"> &nbsp;__Nhan Pham__
-## Technical Skills 🧠
 
 <div align='justify'>
 
-**Programming** C/C++, PYTHON, JAVA
+<div align="center">
 
-**Database Management Systems** PostgreSQL, MS SQL Server, MySQL
+## 💻Programming Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,nodejs,html,php,mysql,sqlite&theme=light)](https://skillicons.dev)
+</div>
+
+<div align="center">
+
+## Other Skills
+</div>
 
 **Foreign Languages** IELTS 7.0
 
@@ -41,13 +52,22 @@
 - __Performance Optimization__: Skills in profiling and optimizing code for performance and scalability.
 </div>
 
+<div align="center">
+
 ## Education ✍️
-**VNUHCM - University Of Science 09/2022 - Now**
+</div>
+
+**VNUHCM - University Of Science**, 09/2022 - Current
+
+**Ho Chi Minh City - Viet Nam**
 
 - Studying Information Technology.
 - Participate in research on algorithms in computer science and data science.
 
+<div align="center">
+    
 ## Pastimes And Activities 😊
+</div>
 
 <div align='justify'>
   
