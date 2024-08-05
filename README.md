@@ -27,9 +27,29 @@
 
 <div align="center">
 
-## 💻Programming Skills
+## 🖥️ Technologies And Tools
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,nodejs,html,php,mysql,sqlite&theme=light)](https://skillicons.dev)
+Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator and high school student. I'm interested in development, moderation and building thriving online communities. I work on random projects in my free time. 
+
+<div align="center">
+
+### My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,r,ruby,spring,wasm&theme=light)](https://skillicons.dev)
+
+### Database
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light)](https://skillicons.dev)
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,ps,ai&theme=light)](https://skillicons.dev)
+
+### More
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,gcp,vscode,visualstudio,wordpress,figma,arduino,windows,androidstudio,md&theme=light)](https://skillicons.dev)
+
 </div>
 
 <div align="center">
