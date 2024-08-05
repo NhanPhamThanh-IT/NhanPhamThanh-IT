@@ -27,13 +27,15 @@
 
 <div align="center">
 
-## 🖥️ Technologies And Tools
+## 💻 Technologies And Tools 💻
 </div>
 
 Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator and high school student. I'm interested in development, moderation and building thriving online communities. I work on random projects in my free time. 
 
-<div align="center">
-
+<table align="center">
+        <tr align="center">
+            <td>
+                
 ### My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,r,ruby,spring,wasm&theme=light)](https://skillicons.dev)
@@ -46,15 +48,17 @@ Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator an
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,ps,ai&theme=light)](https://skillicons.dev)
 
-### More
+### Other Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,gcp,vscode,visualstudio,wordpress,figma,arduino,windows,androidstudio,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,gcp,vscode,visualstudio,wordpress,figma,arduino,windows,androidstudio,md&theme=light)](https://skillicons.dev)        
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-## Other Skills
+## 👍 Prowess 👍
 </div>
 
 **Foreign Languages** IELTS 7.0
@@ -74,7 +78,7 @@ Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator an
 
 <div align="center">
 
-## Education ✍️
+## 👨‍🎓 Education 👨‍🎓
 </div>
 
 **VNUHCM - University Of Science**, 09/2022 - Current
@@ -86,7 +90,7 @@ Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator an
 
 <div align="center">
     
-## Pastimes And Activities 😊
+## 😊 Pastimes And Activities 😊
 </div>
 
 <div align='justify'>
@@ -96,7 +100,11 @@ Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator an
 - During my free time, I often do some projects related to computer science, data science, software development, etc. Because of this, I also do some security projects. It provides coders with all kinds of resources, instructing programming resources to develop their skills to the highest level, sharing knowledge about listening skills, and programming skills that a team of coders can have.
 - In addition, from time to time I often visit websites to learn more about the latest programming techniques and new information about listening or other topics.
 
-## My Stats
+<div align="center">
+    
+## 🥇 My Stats 🥇
+</div>
+
 
 <!---
 NhanPhamThanh-IT/NhanPhamThanh-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
