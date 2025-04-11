@@ -30,10 +30,11 @@
 ### 🧩 Backend Technologies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="45" alt="Node.js"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="45" alt="Express"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" width="45" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="45" alt="Node.js" style="vertical-align: middle;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="45" alt="Express" style="vertical-align: middle;"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" width="45" alt="Next.js" style="vertical-align: middle;"/>
 </div>
+
 
 ### 🎨 Frontend Technologies
 
