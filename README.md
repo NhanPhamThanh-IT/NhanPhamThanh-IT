@@ -1,124 +1,36 @@
-<h1 align="center">Hi 👋, I'm NhanPhamThanh-IT</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nhan Pham
+=================================================================================================================================
 
-<h4 align="center">I am an AI Engineer and Fullstack Developer, specializing in building and deploying AI solutions as well as developing end-to-end web applications from frontend to backend.</h3>
+AI Engineer - Fullstack Developer
+---------------------------------
 
-<br>
+🚀 Hi there! I'm a student majoring in Information Technology with a strong passion for Artificial Intelligence and Fullstack Development. As an AI Engineer, I specialize in building machine learning and deep learning models for real-world applications such as image recognition, NLP, and predictive analytics. At the same time, I work as a Fullstack Developer using modern tools like React, TypeScript, and MUI for frontend, and Python (FastAPI) or Node.js for backend development. I enjoy turning ideas into scalable, efficient, and user-friendly products, and I'm always eager to learn new technologies and contribute to impactful projects.
 
-## About Me
+* 🌍  I'm based in Viet Nam
+* 🖥️  See my portfolio at [myportfolio](http://nhan-pham-thanh-portfolio.vercel.app/home)
+* ✉️  You can contact me at [ptnhanit230104@gmail.com](mailto:ptnhanit230104@gmail.com)
+* 🧠  I'm learning I'm currently diving deep into various domains of AI – from theoretical foundations to hands-on applications.
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm a friendly and open-minded person who enjoys collaborating with others to solve problems and build meaningful solutions. With a strong passion for continuous learning, I'm always exploring new technologies, improving my skills, and expanding my knowledge. I believe that learning is a lifelong journey, and every new challenge is an opportunity to grow both personally and professionally.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🦱 __Pham Thanh Nhan__
+### Skills
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎂 __23/01/2004__
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️ __Viet Nam__
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💌 
- <span style="color: white"><strong>ptnhanit230104@gmail.com</strong></span></p>
-
-<br>
-
-## Connect With Me
-
-<p align="center">
-    <a href="https://fb.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://instagram.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://www.youtube.com/c/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://linkedin.com/in/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://stackoverflow.com/users/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://kaggle.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://www.hackerrank.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://codeforces.com/profile/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
-    <a href="https://www.leetcode.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
-<div align='justify'>
 
-<div align="center">
+### Socials
 
-## 💻 Technologies And Tools 💻
-</div>
+<p align="left"> <a href="https://discord.com/users/NhanPham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/nhan.pham.352034" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NhanPhamThanh-IT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/NhanPham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nhan-pham-53a891323/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@NhanPham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator and high school student. I'm interested in development, moderation and building thriving online communities. I work on random projects in my free time. 
+### Badges
 
-<table align="center">
-        <tr align="center">
-            <td>
-                
-### My Tech Stack
+<b>My GitHub Stats</b>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,go,r,ruby,spring,wasm&theme=light)](https://skillicons.dev)
+<a href="http://www.github.com/NhanPhamThanh-IT"><img src="https://github-readme-stats.vercel.app/api?username=NhanPhamThanh-IT&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="NhanPhamThanh-IT's GitHub stats" /></a>
 
-### Database
+<a href="http://www.github.com/NhanPhamThanh-IT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanPhamThanh-IT&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light)](https://skillicons.dev)
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,sass,ps,ai&theme=light)](https://skillicons.dev)
-
-### Other Skills
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,gcp,vscode,visualstudio,wordpress,figma,arduino,windows,androidstudio,md&theme=light)](https://skillicons.dev)        
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-## 👍 Prowess 👍
-</div>
-
-**Foreign Languages** IELTS 7.0
-
-**Others**
-
-- __OOP__: Good understanding of OOP methodologies, SOLID principles, and design pattern.
-- __Data Structures and Algorithms__: Understanding of fundamental data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, dynamic programming).
-- __Debugging and Testing__: Skills in debugging code, writing and running tests (unit tests, integration tests), and using testing frameworks.
-- __APIs and Integration__: Experience with RESTful APIs, GraphQL, and integrating third-party services or libraries.
-- __Operating Systems__: Knowledge of operating systems concepts, including processes, threads, and memory management.
-- __Web Development__: Understanding of web technologies, including HTML, CSS, JavaScript, and frameworks/libraries like React or Angular.
-- __Command Line Proficiency__: Comfort with using command-line interfaces and scripting for automation tasks.
-- __Continuous Integration/Continuous Deployment (CI/CD)__: Familiarity with CI/CD tools and practices for automating the build, test, and deployment processes.
-- __Performance Optimization__: Skills in profiling and optimizing code for performance and scalability.
-</div>
-
-<div align="center">
-
-## 👨‍🎓 Education 👨‍🎓
-</div>
-
-**VNUHCM - University Of Science**, 09/2022 - Current
-
-**Ho Chi Minh City - Viet Nam**
-
-- Studying Information Technology.
-- Participate in research on algorithms in computer science and data science.
-
-<div align="center">
-    
-## 😊 Pastimes And Activities 😊
-</div>
-
-<div align='justify'>
-  
-- I am keen on reading books, IT blogs in my free time. My favourite books are Clean Code, Head First Design Pattern, C# in Depth, Working with Legacy Code...
-- I also participate in <a href='https://codeforces.com/' style='color: #000000'>Codeforces</a>, I join with the goal of improving my code design and thinking, I often participate in contests on codeforce, doc table, I also want to share my programming experiences through posts or videos. Share the opinions of other members.
-- During my free time, I often do some projects related to computer science, data science, software development, etc. Because of this, I also do some security projects. It provides coders with all kinds of resources, instructing programming resources to develop their skills to the highest level, sharing knowledge about listening skills, and programming skills that a team of coders can have.
-- In addition, from time to time I often visit websites to learn more about the latest programming techniques and new information about listening or other topics.
-
-<div align="center">
-    
-## 🥇 My Stats 🥇
-</div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NhanPhamThanh-IT&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhanPhamThanh-IT&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanphamthanh-it" alt="nhanphamthanh-it" /></a> </p>
-
-<!---
-NhanPhamThanh-IT/NhanPhamThanh-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/NhanPhamThanh-IT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanPhamThanh-IT&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
