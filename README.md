@@ -1,27 +1,35 @@
-<table align="center" style='border: 10px dashed black;'>
-    <tr>
-        <td>
-            <img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Introduce.png">
-        </td>
-    </tr>
-</table>
+<h1 align="center">Hi 👋, I'm NhanPhamThanh-IT</h1>
 
-<div align="center">
+<h4 align="center">I am an AI Engineer and Fullstack Developer, specializing in building and deploying AI solutions as well as developing end-to-end web applications from frontend to backend.</h3>
+
+<br>
 
 ## About Me
-</div>
 
-<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Person%20Icon.png" height="15px"> &nbsp;__Phạm Thành Nhân__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑‍🦱 __Pham Thanh Nhan__
 
-😅 __Nhan Pham__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎂 __23/01/2004__
 
-<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Calendar%20Icon.png" height="15px"> &nbsp;__23/01/2004__
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗺️ __Viet Nam__
 
-<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Vietnam%20Icon.png" height="15px"> &nbsp;__Viet Nam__
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💌 
+ <span style="color: white"><strong>ptnhanit230104@gmail.com</strong></span></p>
 
-<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Mail%20Icon.png" height="15px"> &nbsp;__ptnhanit230104@gmail.com__
+<br>
 
-<img src="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT/blob/main/Image/Facebook%20Icon.png" height="15px"> &nbsp;__Nhan Pham__
+## Connect With Me
+
+<p align="center">
+    <a href="https://fb.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://instagram.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://www.youtube.com/c/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://linkedin.com/in/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://stackoverflow.com/users/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://kaggle.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://www.hackerrank.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://codeforces.com/profile/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+    <a href="https://www.leetcode.com/nhan pham thanh it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nhan pham thanh it" height="50" width="60" /></a>
+</p>
 
 <div align='justify'>
 
@@ -107,6 +115,9 @@ Hey there!👋 I'm Nhan Pham - I'm a fullstack developer, designer, moderator an
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NhanPhamThanh-IT&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhanPhamThanh-IT&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanphamthanh-it" alt="nhanphamthanh-it" /></a> </p>
+
 <!---
 NhanPhamThanh-IT/NhanPhamThanh-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
