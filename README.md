@@ -85,7 +85,6 @@
   </td>
 </tr>
 </table>
-</section>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/github-snake-dark.svg" />
