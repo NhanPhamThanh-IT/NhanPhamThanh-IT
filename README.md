@@ -6,12 +6,15 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 
 ### <div align="left">🌟 About Me</div>
 
-- 🔭 I’m currently working on [something cool](https://example.com) – always building and learning.
-- 🌱 I’m currently diving deep into **Machine Learning**, **Deep Learning**, and **LLM fine-tuning**.
-- 🤝 I’m open to collaboration and looking for support with [an exciting project](https://example.com).
-- 👨‍💻 You can explore all of my work at: [My Repositories](https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT)
-- 💬 Ask me about anything related to **AI**, **Fullstack Development**, or just tech in general.
-- 📫 Reach me via email: **ptnhanit230104@gmail.com**
+<ul>
+  <li>🔭 I’m currently working on <a href="https://example.com" target="_blank">something cool</a> – always building and learning.</li>
+  <li>🌱 I’m currently diving deep into <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>LLM fine-tuning</strong>.</li>
+  <li>🤝 I’m open to collaboration and looking for support with <a href="https://example.com" target="_blank">an exciting project</a>.</li>
+  <li>👨‍💻 You can explore all of my work at: <strong><a href="https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT" target="_blank">My Repositories</a></strong></li>
+  <li>💬 Ask me about anything related to <strong>AI</strong>, <strong>Fullstack Development</strong>, or just tech in general.</li>
+  <li>📫 Reach me via email: <strong>ptnhanit230104@gmail.com</strong></li>
+</ul>
+
 
 ---
 
