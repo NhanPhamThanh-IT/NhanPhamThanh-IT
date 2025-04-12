@@ -9,7 +9,7 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 - 🔭 I’m currently working on [something cool](https://example.com) – always building and learning.
 - 🌱 I’m currently diving deep into **Machine Learning**, **Deep Learning**, and **LLM fine-tuning**.
 - 🤝 I’m open to collaboration and looking for support with [an exciting project](https://example.com).
-- 👨‍💻 You can explore all of my work at: [github.com/NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT)
+- 👨‍💻 You can explore all of my work at: [My Repositories](https://github.com/NhanPhamThanh-IT/NhanPhamThanh-IT)
 - 💬 Ask me about anything related to **AI**, **Fullstack Development**, or just tech in general.
 - 📫 Reach me via email: **ptnhanit230104@gmail.com**
 
@@ -17,7 +17,9 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 
 ### <div align="left">🚀 My Skills</div>
 
-#### Programming Languages: Proficient in writing clean, efficient, and scalable code across multiple paradigms.
+<div align="justify">
+<p><strong>Programming Languages</strong>: Proficient in writing clean, efficient, and scalable code across multiple paradigms.</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -29,7 +31,9 @@ I'm a developer who loves turning ideas into real, useful products — especiall
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-#### Machine Learning / Data Science: Crafting intelligent systems and transforming data into actionable insights.
+<div align="justify">
+<p><strong>Machine Learning / Data Science</strong>: Crafting intelligent systems and transforming data into actionable insights.</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -40,7 +44,9 @@ I'm a developer who loves turning ideas into real, useful products — especiall
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
-#### Backend Technologies: Building powerful, secure, and scalable APIs and services.
+<div align="justify">
+<p><strong>Backend Technologies</strong>: Building powerful, secure, and scalable APIs and services.</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -48,7 +54,9 @@ I'm a developer who loves turning ideas into real, useful products — especiall
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
-#### Frontend Technologies: Designing delightful, performant, and accessible user interfaces.
+<div align="justify">
+<p><strong>Frontend Technologies</strong>: Designing delightful, performant, and accessible user interfaces.</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -63,14 +71,18 @@ I'm a developer who loves turning ideas into real, useful products — especiall
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-#### 🌿 Version Control & Collaboration: Git things done—efficiently and collaboratively.
+<div align="justify">
+<p><strong>🌿 Version Control & Collaboration</strong>: Git things done—efficiently and collaboratively.</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-#### 🧩 Development Tools: Tools of the trade for writing, debugging, and deploying code smoothly.
+<div align="justify">
+<p><strong>🧩 Development Tools</strong>: Tools of the trade for writing, debugging, and deploying code smoothly.</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
