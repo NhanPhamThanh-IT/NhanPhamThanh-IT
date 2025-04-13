@@ -134,7 +134,7 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/pacman-contribution-graph.svg">
 </picture>
