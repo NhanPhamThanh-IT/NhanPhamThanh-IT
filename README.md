@@ -1,8 +1,17 @@
 # Hi there, I'm [Nhan Pham]() 👋
 
-<div align="justify">
-I'm a developer who loves turning ideas into real, useful products — especially projects that bring value to the community. I enjoy learning new things every day and using what I learn to build something meaningful. I’m especially passionate about artificial intelligence and always looking for ways to apply it to everyday life — whether it’s helping people learn, making daily tasks easier, or creating tools that support those with special needs. For me, programming is more than just a job — it’s something I truly enjoy, a way to grow, and a chance to make a positive difference.
-</div>
+<table border="0" style="width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <div align="justify">
+        I'm a developer who enjoys transforming ideas into real, useful products, particularly those that add value to others and contribute to the community. I find joy in every stage of the process, from initial brainstorming to building, refining, and delivering a solution that makes a real impact. I'm constantly learning new technologies, better ways to solve problems, and fresh perspectives. My passion lies in using AI to improve lives, whether it’s enhancing education, productivity, or accessibility for those with special needs. Programming is not just a career for me — it’s a form of creative expression, a means for personal growth, and a way to positively influence the world.
+      </div>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ### <div align="left">🌟 About Me</div>
 
