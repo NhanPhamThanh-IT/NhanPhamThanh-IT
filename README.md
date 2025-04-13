@@ -21,7 +21,11 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 ### <div align="left">🚀 My Skills</div>
 
 <div align="justify">
-<p><strong>Programming Languages</strong>: Proficient in writing clean, efficient, and scalable code across multiple paradigms.</p>
+  <ul>
+    <li>
+      <p><strong>👨‍💻 Programming Languages</strong>: Proficient in writing clean, efficient, and scalable code across multiple paradigms.</p>
+    </li>
+  </ul>
 </div>
 
 <p align="center">
@@ -35,7 +39,11 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 </p>
 
 <div align="justify">
-<p><strong>Machine Learning / Data Science</strong>: Crafting intelligent systems and transforming data into actionable insights.</p>
+  <ul>
+    <li>
+      <p><strong>🤖 Machine Learning / Data Science</strong>: Crafting intelligent systems and transforming data into actionable insights.</p>
+    </li>
+  </ul>
 </div>
 
 <p align="center">
@@ -48,7 +56,11 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 </p>
 
 <div align="justify">
-<p><strong>Backend Technologies</strong>: Building powerful, secure, and scalable APIs and services.</p>
+  <ul>
+    <li>
+      <p><strong>💥 Backend Technologies</strong>: Building powerful, secure, and scalable APIs and services.</p>
+    </li>
+  </ul>
 </div>
 
 <p align="center">
@@ -58,7 +70,11 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 </p>
 
 <div align="justify">
-<p><strong>Frontend Technologies</strong>: Designing delightful, performant, and accessible user interfaces.</p>
+  <ul>
+    <li>
+      <p><strong>🖼️ Frontend Technologies</strong>: Designing delightful, performant, and accessible user interfaces.</p>
+    </li>
+  </ul>
 </div>
 
 <p align="center">
@@ -75,7 +91,11 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 </p>
 
 <div align="justify">
-<p><strong>🌿 Version Control & Collaboration</strong>: Git things done—efficiently and collaboratively.</p>
+  <ul>
+    <li>
+      <p><strong>🌿 Version Control & Collaboration</strong>: Git things done—efficiently and collaboratively.</p>
+    </li>
+  </ul>
 </div>
 
 <p align="center">
@@ -84,7 +104,11 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 </p>
 
 <div align="justify">
-<p><strong>🧩 Development Tools</strong>: Tools of the trade for writing, debugging, and deploying code smoothly.</p>
+  <ul>
+    <li>
+      <p><strong>🧩 Development Tools</strong>: Tools of the trade for writing, debugging, and deploying code smoothly.</p>
+    </li>
+  </ul>
 </div>
 
 <p align="center">
@@ -96,7 +120,7 @@ I'm a developer who loves turning ideas into real, useful products — especiall
 
 ---
 
-### <div align="left">📈 My GitHub Stats</div>
+### <div align="left">🎓 My GitHub Stats</div>
 
 <table>
 <tr>
