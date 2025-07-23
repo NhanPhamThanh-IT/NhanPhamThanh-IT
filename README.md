@@ -1,4 +1,4 @@
-# Hi there, I'm [Nhan Pham]() 👋
+# Hi there, I'm [Nhan Pham]() 👋 ![](https://komarev.com/ghpvc/?username=nhanphamthanh-it&color=brightgreen&style=plastic&label=Profile+Views&abbreviated=true)
 
 <table border="0" style="width: 100%;">
   <tr>
@@ -189,9 +189,3 @@
   </td>
 </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NhanPhamThanh-IT/NhanPhamThanh-IT/output/pacman-contribution-graph.svg">
-</picture>
