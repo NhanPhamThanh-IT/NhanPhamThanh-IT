@@ -179,13 +179,17 @@
 
 ### <div align="left">🎓 My GitHub Stats</div>
 
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=NhanPhamThanh-IT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
-  </td>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanPhamThanh-IT&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
-  </td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/NhanPhamThanh-IT/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=NhanPhamThanh-IT&theme=transparent&show_icons=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/NhanPhamThanh-IT/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=NhanPhamThanh-IT&theme=transparent&layout=compact&langs_count=8&card_width=320" /> 
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NhanPhamThanh-IT/github-readme-stats">
+    <img src="https://streak-stats.demolab.com/?user=NhanPhamThanh-IT&theme=transparent&langs_count=8&card_width=805" alt="GitHub Streak" /> 
+  </a>
+</p>
